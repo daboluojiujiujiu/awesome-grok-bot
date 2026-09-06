@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-06（晚间补扫）
+
+- 新增：官方设计长文、Android 上线公告与 Google Play 页。
+- 新增：模板市场 / Haggle 采购案例、iPad 与套餐扩展报道、服务端同步记忆扒包。
+
 ## 2026-09-06
 
 - 仓库初始化：LICENSE、贡献说明、Changelog。

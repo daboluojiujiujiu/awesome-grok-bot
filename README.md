@@ -27,9 +27,12 @@
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - 团队仪表盘与插件/MCP 策略
 - [Settings and notifications](https://docs.x.ai/grok-bot/settings-and-notifications) - 时区、Auto-review、用量与 Team Setup
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 2026-08-11 产品发布说明
+- [Designing Grok Bot for a world of persistent agents](https://x.ai/news/designing-grok-bot) - 2026-09-03 设计长文：名册、Presence、专属电脑与 Routines
 - [Grok Bot for Enterprise](https://x.ai/news/grok-bot-for-enterprise) - 2026-09-03 企业版治理与审计
 - [Grok Bot product page](https://x.ai/bot) - 下载入口与 FAQ
 - [Grok Bot now works with X](https://x.ai/news/grok-bot-and-x) - 连接 X，搜索帖子与时间线
+- [Grok Bot on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok.bot) - Android 正式商店页
+- [Grok Bot is Now Live on Android](https://forum.cursor.com/t/grok-bot-is-now-live-on-android/170384) - 2026-09-02 Cursor 官方 Android 上线公告
 - [Cursor: Getting started](https://cursor.com/help/grok-bot/getting-started) - Cursor 帮助中心上手与排障
 - [Cursor: Connect plugins](https://cursor.com/help/grok-bot/connect-plugins) - Gmail/Notion/Slack 等；含 Zoom 4700 已知问题
 - [Cursor: Plans and billing](https://cursor.com/help/grok-bot/plans) - 计划包含关系与周用量
@@ -54,6 +57,7 @@
 - [10 Grok Bot Use Cases](https://www.bleap.finance/blog/grok-bot-use-cases) - 销售、招聘、QA 等业务场景
 - [Grok Bot Explained + launch-week use cases](https://www.ayautomate.com/blog/grok-bot-xai-ai-agents-explained) - 上手截图与四类真实用例
 - [OrgBots pack directory](https://forum.cursor.com/t/over-the-weekend-i-built-a-grok-bot-pack-directory-team-is-how-you-mix-your-own/170300) - 社区 Bot pack 目录与组队思路
+- [Haggle procurement + template marketplace](https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent) - 模板市场（约 69 个公开 Bot）与采购砍价案例
 
 ## 技能 / 插件 / MCP
 
@@ -73,6 +77,8 @@
 - [Alex Finn: Did Grok Bot Just Kill Hermes and OpenClaw?](https://moderncreator.app/2026-08-11-alex-finn-did-grok-bot-just-kill-hermes-and-openclaw) - 零配置 vs 开源一周实测
 - [The New Stack: Security boundaries](https://thenewstack.io/ai-agent-security-boundaries/) - 账号级 vs 沙箱级边界
 - [Vellum: Official Grok Bot breakdown](https://www.vellum.ai/blog/official-grok-bot-breakdown) - 定价、安全与替代品视角
+- [9to5Mac: iPad + cheaper plan access](https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/) - iPad/Android 与更低价套餐覆盖报道
+- [RuntimeWire: server-synced memory scoop](https://runtimewire.com/article/grok-bot-is-building-server-synced-memory-for-its-ai-coworkers) - 扒包：服务端按 Bot 同步记忆接口已出现
 
 ## 开源替代
 
