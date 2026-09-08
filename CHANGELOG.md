@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-08
+
+- 新增官方：Message and collaborate、FAQ。
+- 新增教程：Composio MCP 接入、João Queirós 安全边界指南、tiagovilasboas 架构 ADR 包。
+- 新增实战：AI Maker 七 Bot 手机团队、家庭 Swarm 写实。
+- 新增插件与工具：grokbot-sdk、GTM agent system、Telegram 双 MCP、Linq 短信通道。
+- 新增开源：Rakazo、OpenBot、grok-rpm（Fedora/RHEL）。
+- 相关列表补 kydlikebtc / majiayu000 模板目录。今日抽检既有链接均可达，无清理。
+
 ## 2026-09-07
 
 - 新增官方：Guides 手册入口、Haggle 采购案例、套餐扩展、Security/Mobile 文档、电脑恢复帮助、iOS App Store。

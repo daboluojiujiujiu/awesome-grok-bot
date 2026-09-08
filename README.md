@@ -23,12 +23,14 @@
 - [Create and manage Bots](https://docs.x.ai/grok-bot/bots) - 命名、职责、复制/分享与记忆边界
 - [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations) - Skill、示范教学、定时/事件 Routine
 - [Computer and apps](https://docs.x.ai/grok-bot/computer-and-apps) - 连接器、浏览器接管与账号级共享会话
+- [Message and collaborate](https://docs.x.ai/grok-bot/chat-and-collaboration) - 群聊、@提及、Bot 间异步交接与线程/反应
 - [Approvals, security, and privacy](https://docs.x.ai/grok-bot/approvals-security-and-privacy) - 审批边界、Auto Review、凭据交接
 - [Grok Bot security](https://docs.x.ai/grok-bot/security) - 企业网络控制、Action Recording、按用户 Firecracker 隔离
 - [Grok Bot security FAQ](https://docs.x.ai/grok-bot/security-faq) - 隔离边界、插件屏蔽≠浏览器屏蔽、Network Controls 范围
 - [Grok Bot for mobile](https://docs.x.ai/grok-bot/mobile) - iOS / Android 官方文档与商店入口
 - [Teams and enterprises](https://docs.x.ai/grok-bot/teams-and-enterprises) - 团队仪表盘与插件/MCP 策略
 - [Settings and notifications](https://docs.x.ai/grok-bot/settings-and-notifications) - 时区、Auto-review、用量与 Team Setup
+- [Frequently asked questions](https://docs.x.ai/grok-bot/faq) - 共享电脑边界、套餐与平台支持等常见问
 - [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) - 2026-08-11 产品发布说明
 - [Grok Bot is now included with more plans](https://x.ai/news/grok-bot-more-plans) - 套餐覆盖扩展说明
 - [Designing Grok Bot for a world of persistent agents](https://x.ai/news/designing-grok-bot) - 2026-09-03 设计长文：名册、Presence、专属电脑与 Routines
@@ -55,6 +57,7 @@
 - [DataCamp: Skills, Routines, and Approvals](https://www.datacamp.com/tutorial/grok-bot-tutorial) - 把学习 Scout 做成 Skill 再挂周更 Routine
 - [MindStudio: Set up and first agents](https://www.mindstudio.ai/blog/grok-bot-setup-guide) - 安装到首个 Agent、插件共享与触发器
 - [Composio: Guide to Grok Bot](https://composio.dev/content/guide-to-frok-bot) - 常驻同事、连接器优先与 Composio 插件接入
+- [Composio: How to add MCP servers](https://composio.dev/content/how-to-add-mcp-servers-to-grok-bot) - 市场插件 vs 对话加自定义 remote/stdio MCP
 - [Flavio Copes: deep dive](https://flaviocopes.com/grok-bot/) - 共享电脑、Skill→Routine、模板分享与 Stripe Link
 - [Grok Bot handbook (grokbot.run)](https://grokbot.run/) - 英文上手：登录、首任务、隔离边界、Recover 优先
 - [4Geeks: How to set up Grok Bot](https://4geeks.com/en/blog/ai-tools/how-to-set-up-grok-bot) - 十来分钟首装；GitHub 双路径与 X token 注意点
@@ -62,6 +65,8 @@
 - [How to Get Started with Grok Bot](https://debbie.codes/blog/how-to-get-started-with-grok-bot) - Debbie 上手与角色编排
 - [Grok Bot Masterclass](https://www.dailydoseofds.com/p/grok-bot-masterclass/) - 录屏一次变成技能再挂到例行任务
 - [Grok Bot Complete Guide](https://www.gauraw.com/grok-bot-complete-guide-ai-agent-team/) - 安全首装、角色契约与审批进阶
+- [João Queirós: Always-On Agents, Routines, Limits](https://www.ai.joaoqueiros.com/blog/grok-bot-always-on-ai-agent-teams-routines-skills-security) - 共享电脑安全边界、Skill/Routine/Trigger 分层与七天试点
+- [Grok Bot Architecture (pattern pack)](https://github.com/tiagovilasboas/grok-bot-architecture) - 幕僚→专家→连接器架构与 HITL ADR
 - [Connect GitHub to Grok Bot (Composio)](https://composio.dev/toolkits/github/framework/grok-bot) - 经 Composio 连接 GitHub
 - [Connect Gmail to Grok Bot (Composio)](https://composio.dev/toolkits/gmail/framework/grok-bot) - 经 Composio 连接 Gmail
 - [Blotato: Social media MCP for Grok Bot](https://www.blotato.com/ai-agent/grok-bot) - 自定义远程 MCP 发社媒
@@ -74,6 +79,8 @@
 - [Grok Bot Explained + launch-week use cases](https://www.ayautomate.com/blog/grok-bot-xai-ai-agents-explained) - 上手截图与四类真实用例
 - [OrgBots pack directory](https://forum.cursor.com/t/over-the-weekend-i-built-a-grok-bot-pack-directory-team-is-how-you-mix-your-own/170300) - 社区 Bot pack 目录与组队思路
 - [Haggle procurement + template marketplace](https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent) - 模板市场（约 69 个公开 Bot）与采购砍价案例
+- [Seven-Bot team from a phone (AI Maker)](https://aimaker.substack.com/p/grok-bot-ai-agent-team) - 七席位团队：社媒/幕僚/发票/研究/SEO，手机操控
+- [Household Grok Bot swarm](https://github.com/ylgibby/grokbot-household-swarm) - 家庭场景专业 Bot 群写实笔记
 - [vidya course-page calendar Bot](https://github.com/vinilpolepalli/vidya) - 每晚 diff 课程页截止日并校对 Google Calendar（学生挑战）
 - [Real World Agents org chart](https://github.com/Ridarketh/-real-world-agents) - 按结果席位（非任务清单）组 Grok Bot 组织图
 - [Hackathon Spec-to-Ship kit](https://github.com/Iron-Mark/Hackathon-Builder-Grok_Bot) - 五 Bot 小组从研究到公开仓库、无需人工路由
@@ -90,7 +97,11 @@
 - [DominikTobureto/awesome-grok-build](https://github.com/DominikTobureto/awesome-grok-build) - Grok Build 技能与 hooks 起步库
 - [ScriptedAlchemy/grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) - 复用已登录桌面端：终端列出/创建/消息 Bot
 - [Kargatharaakash/grok-bot-mcp](https://github.com/Kargatharaakash/grok-bot-mcp) - 本地 MCP：让其他 agent 创建/消息/搜历史/查用量
+- [adam91holt/grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - TypeScript SDK：网关客户端 + sand-data 磁盘读取
 - [bcharleson/grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - 出站 GTM 剧本与技能（Instantly / HeyReach 等）
+- [lschwartz-hue/grokbot-gtm-agent-system](https://github.com/lschwartz-hue/grokbot-gtm-agent-system) - GTM 小队起步包：Task→Skill→Routine 晋升梯子
+- [Lotus015/grokbot-telegram](https://github.com/Lotus015/grokbot-telegram) - Telegram Bot API + 用户账号双 MCP 插件
+- [jeffhuber/linq-grokbot-text-channel](https://github.com/jeffhuber/linq-grokbot-text-channel) - Linq 短信 ↔ Grok Bot webhook 转发器
 - [shrdgn/grokbot-skills](https://github.com/shrdgn/grokbot-skills) - 按类整理的可运行 SKILL.md 合集
 - [Agensi Grok Skills Marketplace](https://www.agensi.io/grok-marketplace) - SKILL.md 浏览与安装
 - [Firecrawl: Best Grok plugins](https://www.firecrawl.dev/blog/best-grok-plugins) - 插件 vs MCP 对比速览
@@ -109,8 +120,11 @@
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - 自托管多通道 agent 网关（[文档](https://docs.openclaw.ai)）
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - 自托管持久助手：记忆与自写技能
+- [elie222/rakazo](https://github.com/elie222/rakazo) - 开源常驻队友平台：自带模型与沙箱，Web/桌面/移动
+- [Blackman99/openbot](https://github.com/Blackman99/openbot) - 开源、模型无关的 Grok Bot 式多 LLM 编排
 - [agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - 开放 Agent Plugins 规范
 - [HxHippy/grok-bot-arch](https://github.com/HxHippy/grok-bot-arch) - Arch 上从 Cursor 签名 apt 源安装官方 .deb
+- [addidotlol/grok-rpm](https://github.com/addidotlol/grok-rpm) - 官方 .deb 转 RPM 的非官方 Fedora/RHEL dnf 源
 - [nescafe2009/dsh-grokbot](https://github.com/nescafe2009/dsh-grokbot) - DeepSeek Harness 插件：Grok Bot 式命名团队与审批卡
 - [abhaysudhir/ungrok](https://github.com/abhaysudhir/ungrok) - 可回滚 host 改装：把推理路由到自有 OpenAI 兼容端点
 
@@ -127,6 +141,8 @@
 - [ZeroPointRepo/GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - 开放目录站点 grokbot.dev（PR 即写入）
 - [rdmgator12/awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 应用内插件快照列表
 - [lroolle/awesome-grokbot-templates](https://github.com/lroolle/awesome-grokbot-templates) - 公开 Bot 模板分享链接合集
+- [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - 六百余条 x.ai/bot 分享目录（双语 + 站点）
+- [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 公开 Bot 分享索引与核验标记
 - [DominikTobureto/awesome-grok-build](https://github.com/DominikTobureto/awesome-grok-build) - Grok Build 技能 awesome
 
 ## 贡献
