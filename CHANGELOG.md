@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-09
+
+- 新增教程：LaoZhang 上手 / X 连接器三关 / 云电脑边界；Learn Cursor Skills & Routines；互动课 grok-bot-github-tutorial。
+- 新增插件与工具：starter-pack 单职人设、GBDL 定义语言、ticker-wire Skill、Big Numbers 只读 MCP。
+- 新增开源：grokbot-shim（本地 UI + 可换模型）。
+- 相关列表补 UseGrokBot 发现站；社区补 9/7–8 空名册勿 Reset 排障帖。今日抽检既有链接均可达，无清理。
+
 ## 2026-09-08
 
 - 新增官方：Message and collaborate、FAQ。

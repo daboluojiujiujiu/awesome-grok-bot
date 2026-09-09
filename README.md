@@ -67,6 +67,11 @@
 - [Grok Bot Complete Guide](https://www.gauraw.com/grok-bot-complete-guide-ai-agent-team/) - 安全首装、角色契约与审批进阶
 - [João Queirós: Always-On Agents, Routines, Limits](https://www.ai.joaoqueiros.com/blog/grok-bot-always-on-ai-agent-teams-routines-skills-security) - 共享电脑安全边界、Skill/Routine/Trigger 分层与七天试点
 - [Grok Bot Architecture (pattern pack)](https://github.com/tiagovilasboas/grok-bot-architecture) - 幕僚→专家→连接器架构与 HITL ADR
+- [LaoZhang: Getting Started](https://blog.laozhang.ai/en/posts/grok-bot-getting-started) - 安装登录、账户绑定与首份可核验 PDF 报告（2026-09-08 复核）
+- [LaoZhang: X Connector Guide](https://blog.laozhang.ai/en/posts/grok-bot-tutorial) - 连接器≠插件：Connected / Equipped / Verified 三关验收
+- [LaoZhang: Cloud Computer](https://blog.laozhang.ai/en/posts/grok-bot-cloud-computer) - 账号级共享电脑边界、接管密钥与审批闸
+- [Learn Cursor: Skills & Routines](https://www.learncursor.dev/learn/cursor-agents/grok-bot-skills-routines) - Skill vs Routine、Teach a task、事件触发与可靠标准
+- [Grok Bot + GitHub tutorial app](https://github.com/GalacticOrgOfDev/grok-bot-github-tutorial) - 互动模块课：GitHub / Routines / Teams / Skills（含测验）
 - [Connect GitHub to Grok Bot (Composio)](https://composio.dev/toolkits/github/framework/grok-bot) - 经 Composio 连接 GitHub
 - [Connect Gmail to Grok Bot (Composio)](https://composio.dev/toolkits/gmail/framework/grok-bot) - 经 Composio 连接 Gmail
 - [Blotato: Social media MCP for Grok Bot](https://www.blotato.com/ai-agent/grok-bot) - 自定义远程 MCP 发社媒
@@ -103,6 +108,10 @@
 - [Lotus015/grokbot-telegram](https://github.com/Lotus015/grokbot-telegram) - Telegram Bot API + 用户账号双 MCP 插件
 - [jeffhuber/linq-grokbot-text-channel](https://github.com/jeffhuber/linq-grokbot-text-channel) - Linq 短信 ↔ Grok Bot webhook 转发器
 - [shrdgn/grokbot-skills](https://github.com/shrdgn/grokbot-skills) - 按类整理的可运行 SKILL.md 合集
+- [SigiBaes/grok-bot-starter-pack](https://github.com/SigiBaes/grok-bot-starter-pack) - 可粘贴单职人设：线索回复 / 收件箱 / 找钱 / 内容侦察（默认只出草稿）
+- [jcpsimmons/gbdl](https://github.com/jcpsimmons/gbdl) - GrokBot Definition Language：一文件 YAML-in-Markdown 保存多 Bot 编排
+- [CitiZenSleuthX/ticker-wire-skill](https://github.com/CitiZenSleuthX/ticker-wire-skill) - Ticker Wire 股票新闻盯盘 Skill（`npx skills add`）
+- [zhast/big-numbers-plugin](https://github.com/zhast/big-numbers-plugin) - Big Numbers 只读账户/流水 MCP 插件（OAuth，不转账）
 - [Agensi Grok Skills Marketplace](https://www.agensi.io/grok-marketplace) - SKILL.md 浏览与安装
 - [Firecrawl: Best Grok plugins](https://www.firecrawl.dev/blog/best-grok-plugins) - 插件 vs MCP 对比速览
 
@@ -123,6 +132,7 @@
 - [elie222/rakazo](https://github.com/elie222/rakazo) - 开源常驻队友平台：自带模型与沙箱，Web/桌面/移动
 - [Blackman99/openbot](https://github.com/Blackman99/openbot) - 开源、模型无关的 Grok Bot 式多 LLM 编排
 - [agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - 开放 Agent Plugins 规范
+- [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) - 本地跑 Grok Bot UI：自带桌面 + 可换 Codex/OpenAI 兼容模型
 - [HxHippy/grok-bot-arch](https://github.com/HxHippy/grok-bot-arch) - Arch 上从 Cursor 签名 apt 源安装官方 .deb
 - [addidotlol/grok-rpm](https://github.com/addidotlol/grok-rpm) - 官方 .deb 转 RPM 的非官方 Fedora/RHEL dnf 源
 - [nescafe2009/dsh-grokbot](https://github.com/nescafe2009/dsh-grokbot) - DeepSeek Harness 插件：Grok Bot 式命名团队与审批卡
@@ -133,12 +143,14 @@
 - [Cursor Forum tag: grok-bot](https://forum.cursor.com/tag/grok-bot) - 官方论坛标签流
 - [Learn Cursor: Security & privacy](https://www.learncursor.dev/learn/cursor-agents/grok-bot-security-privacy) - 共享电脑边界与审批注意点
 - [Can't reach your computer（代理/TUN）](https://forum.cursor.com/t/grok-bot-windows-fresh-profile-setup-fails-with-can-t-reach-your-computer-after-backend-fix/170281) - Windows 直连绕过系统代理时改用 TUN
+- [Bots vanished / backend outage（勿乱 Reset）](https://forum.cursor.com/t/grok-bot-all-bots-disappeared-after-alt-tab-during-setup-nothing-recovers-them/170971) - 2026-09-07～08 服务端故障：空名册时先别 Reset/Recover，等官方恢复
 
 ## 相关列表
 
 - [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) - 铁柱 AGI 维护的双语精选（灵感来源）
 - [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 上线初期目录
 - [ZeroPointRepo/GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - 开放目录站点 grokbot.dev（PR 即写入）
+- [UseGrokBot](https://usegrokbot.com) - 按身份/团队模板发现用例，约每 6 小时刷新
 - [rdmgator12/awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - 应用内插件快照列表
 - [lroolle/awesome-grokbot-templates](https://github.com/lroolle/awesome-grokbot-templates) - 公开 Bot 模板分享链接合集
 - [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - 六百余条 x.ai/bot 分享目录（双语 + 站点）
