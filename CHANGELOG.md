@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-10
+
+- 新增教程：Continuum routines/skills 上限指南、What is / How to use。
+- 新增评测：Continuum 定价、review、安全合规、alternatives 对照。
+- 新增实战：在 Grok Bot 云电脑内装 Hermes（Telegram 双通道）。
+- 新增插件与工具：opengrok 换模型观测台、TaskBullet 人肉 VA MCP。
+- 新增开源：AppImage 更新器、Arch grok-bot-bin、Hermes Mobile、autobase。
+- 相关列表补 Anil-matcha 模板 awesome。抽检样本链接可达；未发现需清理的失效项。跳过 umichsteve/grokbot-usage（明示计量 Super Grok 而非 Grok Bot）。
+
 ## 2026-09-09
 
 - 新增教程：LaoZhang 上手 / X 连接器三关 / 云电脑边界；Learn Cursor Skills & Routines；互动课 grok-bot-github-tutorial。
