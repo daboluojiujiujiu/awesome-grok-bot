@@ -171,6 +171,7 @@
 - [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 公开 Bot 分享索引与核验标记
 - [DominikTobureto/awesome-grok-build](https://github.com/DominikTobureto/awesome-grok-build) - Grok Build 技能 awesome
 - [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) - 可粘贴 Bot 模板（生产力/销售/营销等）与创作者标注
+- [Grok Bot Wiki](https://www.grokbotwiki.com/) - 独立模板目录、设置与排障指南，标明来源和创作者；不声称模板经过独立实测
 
 ## 贡献
 
