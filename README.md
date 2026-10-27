@@ -71,6 +71,7 @@
 - [LaoZhang: X Connector Guide](https://blog.laozhang.ai/en/posts/grok-bot-tutorial) - 连接器≠插件：Connected / Equipped / Verified 三关验收
 - [LaoZhang: Cloud Computer](https://blog.laozhang.ai/en/posts/grok-bot-cloud-computer) - 账号级共享电脑边界、接管密钥与审批闸
 - [Learn Cursor: Skills & Routines](https://www.learncursor.dev/learn/cursor-agents/grok-bot-skills-routines) - Skill vs Routine、Teach a task、事件触发与可靠标准
+- [grokguide.si](https://grokguide.si) - 中文实测教程站：Linux/rpm 安装纠错、多 Bot 规则底座、Routine 提案对照；站方自荐
 - [Continuum: routines, skills, and schedules](https://continuumcode.ai/guides/grok-bot-routines/) - Skill vs Routine、示范录制上限与 20 条运行记录等未确认上限
 - [Continuum: What is Grok Bot](https://continuumcode.ai/guides/what-is-grok-bot/) - 对照文档而非发布稿：共享电脑与营销口径差异
 - [Continuum: How to use Grok Bot](https://continuumcode.ai/guides/how-to-use-grok-bot/) - 建 Bot、示范教学、挂日程与凭据交接
