@@ -151,6 +151,7 @@
 - [Jabbslad/grok-bot-bin](https://github.com/Jabbslad/grok-bot-bin) - 非官方 Arch 包：把上游 .deb 打成 `.pkg.tar.zst`
 - [CodeUpdaterBot/Hermes-Mobile-App](https://github.com/CodeUpdaterBot/Hermes-Mobile-App) - 开源 Hermes 手机端控制面（Tailscale 连本机宿主机）
 - [mahojo99/autobase](https://github.com/mahojo99/autobase) - Grok Bot 启发的桌面编排：自带 Codex/Claude 订阅跑多 Bot
+- [5dive-ai/5dive](https://github.com/5dive-ai/5dive) - 自托管 AI 团队：在自己的服务器上并行运行 Claude Code、Codex、Grok Build，共享任务板（MIT）
 
 ## 社区
 
